@@ -8,7 +8,7 @@
   
   
  ### Contatos: 
- <a href="https://www.linkedin.com/in/marlos-franklin-870182192/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B%2FfKo0KTQRW6ySosRbVhtYg%3D%3D"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
+ <a href="https://www.linkedin.com/in/marlos-franklin/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"><a/>
  
  
  
