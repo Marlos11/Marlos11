@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Eu sou, Marlos sou um novo programador front End, atualmente estou aprendendo Javascript. Tenho alguns pequenos projetos dos meus estudos em HTML E CSS. 
+### Eu sou um  desenvolvedor Front End, sempre buscando novos conhecimentos onde eu possa evoluir na carreira  e somoar junto a comunidade de desenvolvedores. 
 
 
 ## 🌐 Socials:
