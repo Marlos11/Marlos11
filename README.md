@@ -1,6 +1,6 @@
 ### Ola,Devs 👋
 
-### Eu sou um  desenvolvedor Front End, sempre buscando novos conhecimentos onde eu possa evoluir na carreira  e somar junto a comunidade de desenvolvedores. 
+### Eu sou um  desenvolvedor Fullstack, sempre buscando novos conhecimentos onde eu possa evoluir na carreira  e somar junto a comunidade de desenvolvedores. 
 
 
 ## 🌐 Socials:
